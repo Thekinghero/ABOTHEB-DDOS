@@ -1,6 +1,10 @@
 # ABOTHEB-DDO
 this my Tools ddos
 
+unzip ABOTHEB-DDOS
+
+
+
 cd ABOTHEB-DDOS
 
 بعدها تختار اي اداة تريدهة 
