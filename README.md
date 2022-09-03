@@ -6,7 +6,10 @@ cd ABOTHEB-DDOS
 بعدها تختار اي اداة تريدهة 
 مثل 
 
-python ddos.py
+cd BimzzTod
+
+
+python BimzzTod.py
 
 واذا لم تشتغل عندك 
 خلي بصف كلمة python 
