@@ -6,8 +6,6 @@ cd ABOTHEB-DDOS
 بعدها تختار اي اداة تريدهة 
 مثل 
 
-cd ddos
-
 python ddos.py
 
 واذا لم تشتغل عندك 
